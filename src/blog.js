@@ -12,7 +12,7 @@ const blog = {
       date: "November 18, 2026",
       preview:
         "President William Ruto delivered his fourth State of the Nation Address to a joint sitting of Parliament in Nairobi on November 18, 2026, balancing a defense of his administration's economic and digital reforms against deep public discontent over the cost of living, taxation, and public debt..",
-      minutes: 5,
+      minutes: 1,
     },
     {
       id: 2,
@@ -20,12 +20,13 @@ const blog = {
       
       preview:
         "Government Achievement's & Economic Growth, Digitization, Project Cancellations, Core Priorities, Fiscal Realities and Public Debt, and Future Roadmap.",
-      minutes: "",
+      date: "November 18, 2026",
+        minutes: "1",
     },
     {
       id: 3,
       title: "More of what President Ruto delivers on fourth State of the Nation Address",
-      date: "",
+      date: "November 18, 2026",
       preview:
         `President William Ruto's fourth State of the Nation Address stood out as a defining moment in his presidency, giving him an opportunity to defend his administration's record, ahead of the 2027 general election.
 
@@ -36,7 +37,7 @@ Opening his address before a joint sitting of Parliament, Ruto declared that he 
 "For the fourth time, I stand before this House to discharge my constitutional duty to report on the state of the nation and take stock of what we have collectively accomplished as Kenyans," he said.
 
 The President used the occasion to paint an optimistic picture of the country's direction, insisting that Kenya was recovering economically and making progress across key sectors..`,
-      minutes: "",
+      minutes: "3",
     },
   ],
 };

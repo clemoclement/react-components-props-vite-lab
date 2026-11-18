@@ -2,7 +2,7 @@ import Article from "./Article";
 
 function ArticleList({ posts }) {
   return (
-    <section className="articles">
+    <main>
       {posts.map((post) => (
         <Article
           key={post.id}
@@ -12,7 +12,7 @@ function ArticleList({ posts }) {
           minutes={post.minutes}
         />
       ))}
-    </section>
+    </main>
   );
 }
 

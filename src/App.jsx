@@ -20,14 +20,9 @@ import Header from "./components/Header";
 import About from "./components/About";
 import ArticleList from "./components/ArticleList";
 
-// import blog from "./blog";
-// import Header from "./components/Header";
-// import About from "./components/About";
-// import ArticleList from "./components/ArticleList";
-
 function App() {
   return (
-    <div className="app">
+    <div className="App">
       <Header name={blog.name} />
       <main className="layout">
         <About image={blog.image} about={blog.about} name={blog.name} />

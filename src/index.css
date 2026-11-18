@@ -115,3 +115,9 @@ body {
   .layout { grid-template-columns: 1fr; gap: 2rem; }
   .about { max-width: 14rem; }
 }
+
+.App {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
